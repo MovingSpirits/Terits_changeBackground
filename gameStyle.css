@@ -95,8 +95,8 @@ th, td {
 }
 
 .all_background{
-    /*background: url("gameBg6.png");/* no-repeat;*/
-    background: url("bg4.png");
+    background: url("gameBg6.png") no-repeat;
+    /*background: url("bg4.png");*/
     width:900px;
     height:585px;
 }
